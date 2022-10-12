@@ -16,7 +16,7 @@ void createGraph()
     max=N*(N+1);
     for(i=0;i<max;i++)
     {
-     cout<<"Enter Edge and Weight : ";
+     cout<<"Enter Edges and Weights : ";
      cin>>u>>v>>w;
      if(u==-1)    break;
      else
