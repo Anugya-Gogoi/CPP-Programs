@@ -8,7 +8,7 @@ int parent[10];
 void createGraph()
 {
     int i,j,max,u,v,w;
-    cout<<"Enter the number of nodes : ";
+    cout<<"Enter the number of nodes required : ";
     cin>>N;
     for(i=0;i<=N;i++)
      for(j=0;j<=N;j++)
